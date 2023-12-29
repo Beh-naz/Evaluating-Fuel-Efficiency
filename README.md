@@ -8,7 +8,7 @@ This project analyzed the relationship between transmission type (manual or auto
 After fitting multiple linear regressions, the analysis showed that the manual transmission contributed less significantly to MPG, with only an improvement of 1.81 MPG. Other variables, weight, horsepower, and number of cylinders contributed more significantly to the overall MPG of vehicles.
 
 ## Usage:
-The mtcars dataset was used for this analysis. The only library needed is ggplot2.
+The mtcars dataset was used for this analysis. The only library needed is ggplot2. Use the code in the Project.Rmd uploaded in this repository.
 
 ## Data description:
 The mtcars dataset has 11 columns featuring variables such as MPG, Cylinders, horsepower, weight, etc. First, we change the type of the factorial variables into factors.
