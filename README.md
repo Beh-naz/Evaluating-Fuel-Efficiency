@@ -30,7 +30,7 @@ The mtcars dataset has 11 columns featuring variables such as MPG, Cylinders, ho
 
 ![Box plot]([images/my_image.png](https://github.com/Beh-naz/Evaluating-Fuel-Efficiency/blob/main/my_boxplot.png))
 
-![Residuals plots](images/my_image.png)
+![Residuals plots]([images/my_image.png](https://github.com/Beh-naz/Evaluating-Fuel-Efficiency/blob/main/my_residual_plot.png))
 
 
 ## Conclusion:
