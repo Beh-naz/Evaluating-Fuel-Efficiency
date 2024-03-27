@@ -36,4 +36,4 @@ The mtcars dataset has 11 columns featuring variables such as MPG, Cylinders, ho
 ## Conclusion:
 MPG is affected by transmission, however, not as significantly as it is affected by weight, horsepower, and cylinders.
 
-Find my complete report of this project in the project.pdf uploaded to this repository.
+Find my complete report of this project in [project.pdf](https://github.com/Beh-naz/Evaluating-Fuel-Efficiency/blob/main/Project.pdf).
